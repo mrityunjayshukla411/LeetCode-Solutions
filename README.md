@@ -1,6 +1,10 @@
-# LeetCode-Solutions
-How to get the solution for desired problem?  
 
-(name of problem in camel case).cpp
+# Leetcode Solutions
 
-# Thank You !!
+Here are the Solutions of questions I did while practicing Data Structures and Algorithms on **`LeetCode`**
+
+
+## How To Get a Solution ?
+
+* Press CTRL + F
+* Then Enter (name of problem in camel case).cpp
